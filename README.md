@@ -1,6 +1,9 @@
 # Essays
 
-These are essays that I have written using Generative AI.
+These are essays that I have written using Generative AI. The idea is to 
+explore examples of concepts which is very different than writing a good 
+essay. I would describe these essays as being closer to annotated 
+bibliographies.
 
 ## Rigidity vs Harmony
 
