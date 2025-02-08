@@ -1,7 +1,5 @@
-Sure! Here's a `.gitignore` file tailored for LaTeX projects. This will help you avoid committing unnecessary files generated during the compilation process:
-
-```plaintext
 # LaTeX intermediate files
+*.dvi
 *.aux
 *.bbl
 *.blg
@@ -57,6 +55,3 @@ Thumbs.db
 # User-specific files
 *.swp
 *.swo
-```
-
-You can save this content in a file named `.gitignore` in the root directory of your LaTeX project. This will ensure that Git ignores the specified files and directories, keeping your repository clean and focused on the source files. If you have any other specific files or directories you want to ignore, you can add them to this list.
